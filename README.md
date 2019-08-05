@@ -10,10 +10,10 @@
 * alt-H1======
 * Alt-H2------
 
-Alt-H1- Uzzal  
+Alt-H1- Shudipto o2  
 ========
 
-Alt-H2 - Shudipto o2
+Alt-H2 - Uzzal
 ---------------
 
 
@@ -147,3 +147,20 @@ single newline, so it's a separate line in the *same paragraph*.
 <a href="https://www.youtube.com/watch?v=RfdsCnt6cxw&list=PLs1bCj3TvmWkKR5My5W48tCNGpYuwWDLl
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+# Learnin Emoji
+Hello, Shudipto dada is a wonderfull man. He told me Kotlin will
+be done hurry up , I will try something :balloon:   
+
+be done hurry up , I will try something :mali:   
+be done hurry up , I will try something :airplane:   
+be done hurry up , I will try something :cat:   
+be done hurry up , I will try something :man:   
+be done hurry up , I will try something :hand:   
+be done hurry up , I will try something :hankey:   
+be done hurry up , I will try something :dog:  
+
+ 
+
+
+
